@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**navin-moorthy/navin-moorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Navin Moorthy - UI Developer
 
-Here are some ideas to get you started:
+- 🔥 JavaScript Enthusiast
+- 😍 CSS Lover
+- 🌱 I’m currently learning advanced React and to design
+- 👨‍💻 Working as UI-Developer at [Timeless](https://timeless.co/) 
+- ⚡️ Fun fact: I just love learning things I dont know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧔 - About
+
+- **Name    :** Navin Moorthy
+- **Pronouns:** he/him
+- **Email   :** navin007.a@gmail.com
+- **Twitter :** [@navin_moorthy](https://twitter.com/navin_moorthy)
