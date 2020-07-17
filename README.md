@@ -1,7 +1,6 @@
 <div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/navin-moorthy/navinmoorthy.me/master/public/android-chrome-512x512.png">
   <h1>Navin Moorthy - Web Developer</h1>
-  
-  <img height="30" src="https://raw.githubusercontent.com/navin-moorthy/navinmoorthy.me/master/public/android-chrome-512x512.png">
 </div>
 
 - 🔥 JavaScript Enthusiast
