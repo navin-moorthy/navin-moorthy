@@ -44,8 +44,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-<div align="center">
-  <span>
+<div >
     <img src="https://github-readme-stats.vercel.app/api?username=navin-moorthy&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=27" alt="Navin Moorthy's Readme Stats"/>
-  </span>
 </div>
