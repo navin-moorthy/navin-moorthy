@@ -48,7 +48,4 @@
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=navin-moorthy&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=27" alt="Navin Moorthy's Readme Stats"/>
   </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-moorthy&hide_langs_below=10&title_color=EA2E6E" alt="Navin Moorthy's Top Langs" />
-  </span>
 </div>
