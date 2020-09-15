@@ -6,7 +6,7 @@
 - 🔥 JavaScript Enthusiast
 - 😍 CSS Lover
 - 🌱 I’m currently learning advanced React and to design
-- 👨‍💻 Working as UI-Developer at [Timeless](https://timeless.co/) 
+- 👨‍💻 Working as FrontEnd Web-Developer at [Timeless](https://timeless.co/) 
 - ⚡️ Fun fact: I just love learning new things
 - 💬 Chat with me:  [@navin_moorthy](https://twitter.com/navin_moorthy)
 
