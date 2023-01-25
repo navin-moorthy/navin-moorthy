@@ -46,5 +46,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
 <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=navin-moorthy&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=27" alt="Navin Moorthy's Readme Stats"/>
+    <img src="https://github-readme-stats-navin-moorthy.vercel.app/api?username=navin-moorthy&show_icons=true&icon_color=EA2E6E&title_color=EA2E6E&line_height=27" alt="Navin Moorthy's Readme Stats"/>
 </div>
